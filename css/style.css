@@ -1,0 +1,46 @@
+body{
+  background-image: linear-gradient(rgba(3,3,3,.5), rgba(3,3,3,.5)), url(../img/fondo.jpg);
+  background-repeat: repeat;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.logo{
+	max-width: 100px;
+}
+.bg-red{
+	background-color: red;
+}
+#carrousel{
+	margin-bottom: 25px;
+  margin-top: 15px;
+}
+.card{
+	margin-bottom: 30px;
+}
+
+#footer{
+	background-color: #222222;
+	padding: 50px;
+	text-align: center;
+}
+.navbar{
+  background-color: #222222 !important;
+}
+.btn{
+  background-color: white !important;
+  color: gray !important;
+  border: none;
+}
+.btn:hover{
+  opacity: 0.50;
+}
+.dropdown-menu{
+  background-color: #222222 !important;
+  color: white !important;
+}
+.dropdown-item{
+  color: white;
+}
+.carousel-control-prev-icon{
+  color: gray !important;
+}
